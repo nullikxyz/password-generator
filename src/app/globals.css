@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+	:root {
+		--color-bgk: 240deg 10% 4%; /* zinc 950 */
+		--color-accent1: 240deg 6% 10%; /* zinc 900 */
+		--color-accent2: 240deg 5% 26%; /* zinc 700 */
+		--color-accent3: 0deg 0% 98%; /* zinc 50 */
+		--color-accent4: 240deg 5% 65%; /* zinc 400 */
+		--color-content: 240deg 6% 90%; /* zinc 200 */
+	}
+}
+
+::-webkit-scrollbar {
+	width: 0.75em;
+}
+
+::-webkit-scrollbar-track {
+	background: hsl(var(--color-accent2));
+}
+
+::-webkit-scrollbar-thumb {
+	background: hsl(var(--color-accent1));
+	border-radius: 15px;
+}
