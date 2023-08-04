@@ -2,6 +2,9 @@
 
 The Password Generator is a web application built with Next.js, TypeScript, and Tailwind CSS that allows users to generate secure passwords based on their preferences. The user can customize the password length and choose from a variety of character types, including lowercase letters, uppercase letters, digits, and special characters. Additionally, the application provides the option for users to input their own set of characters for more personalized passwords.
 
+## Live demo
+
+Live demo available on: https://password-generator.nullik.xyz/
 ## Requirements
 
 - Node.js (version 12 or later recommended)
