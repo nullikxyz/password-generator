@@ -4,7 +4,7 @@ The Password Generator is a web application built with Next.js, TypeScript, and 
 
 ## Live demo
 
-Live demo available on: [https://password-generator.nullik.xyz/](https://nullik.xyz/projects/password-generator)
+Live demo available on: https://nullik.xyz/projects/password-generator
 ## Requirements
 
 - Node.js (version 12 or later recommended)
